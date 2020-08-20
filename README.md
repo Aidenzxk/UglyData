@@ -3,3 +3,6 @@ Now you must read me
 
 ## Have you been gnomed?
 ![](gnome.jpg)
+
+### Now it's time for the infinite gif
+![](giphy.gif)
