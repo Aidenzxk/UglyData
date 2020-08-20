@@ -6,3 +6,6 @@ Now you must read me
 
 ### Now it's time for the infinite gif
 ![](giphy.gif)
+
+### Maybe one more infinite gif?
+![](giphy(1).gif)
