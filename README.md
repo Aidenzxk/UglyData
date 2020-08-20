@@ -8,4 +8,4 @@ Now you must read me
 ![](giphy.gif)
 
 ### Maybe one more infinite gif?
-![](giphy(1).gif)
+![](giphy (1).gif)
