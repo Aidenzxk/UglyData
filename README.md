@@ -30,3 +30,7 @@ xlab = "..."
 command, the y label with the 
 ylab = "..."
 command, and then just change the line length, color, dot shape, and dot size to fit personal preference. 
+
+##R Studio Larger Graph
+[My R Studio Bigger Graph)[RStudio Graph]
+
