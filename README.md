@@ -1,6 +1,6 @@
 ### Ball Graph
 
-[Graphing Practice 1](Ball.md)
+[Graphing Practice 1](ballgraph.md)
 ![](Ball)
 
 
