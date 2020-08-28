@@ -1,7 +1,7 @@
 
 # About Me
-![](DSC_3481.JPG | width=48)
-
+![](DSC_3481.JPG)
+<img src="DSC_3481.JPG" width="4">
 
 ## Assignments
 [Graphing Practice 1](ballgraph.md)
