@@ -7,5 +7,5 @@ Hello! I'm Aiden Weinhold, a current freshman at William and Mary. I enjoy playi
 ## Assignments
 [Graphing Practice 1](ballgraph.md)
 
-[My R Studio Bigger Graph](RStudioGraph.md)
+[Graphing Practice 2 - Plot a Path](RStudioGraph.md)
 
