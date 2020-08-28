@@ -1,7 +1,7 @@
 
 # About Me
 
-<img src="DSC_3481.JPG" width="122" height="183" />
+<img src="DSC_3481.JPG" width="150" height="225" />
 ## Assignments
 [Graphing Practice 1](ballgraph.md)
 
