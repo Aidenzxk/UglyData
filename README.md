@@ -1,6 +1,6 @@
 
 # About Me
-
+![](DSC_3481.JPG)
 
 
 ## Assignments
