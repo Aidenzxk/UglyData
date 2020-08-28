@@ -1,6 +1,6 @@
 ### Ball Graph
 
-
+(Graphing Practice 1)[Ball.md]
 ![](Ball)
 
 
@@ -19,5 +19,5 @@ ylab = "..."
 command, and then just change the line length, color, dot shape, and dot size to fit personal preference. 
 
 
-[My R Studio Bigger Graph)[RStudioGraph.md]
+(My R Studio Bigger Graph)[RStudioGraph.md]
 
