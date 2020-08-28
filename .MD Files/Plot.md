@@ -1,7 +1,7 @@
 ### Ball Graph
 
 
-![](Ball)
+![](Ball.jpg)
 
 
 This graph shows how far a ball travels in a matter of seconds. To create this graph, one must fist creat a x and y variable with numbers from 1-10 using the 
