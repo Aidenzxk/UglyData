@@ -1,9 +1,9 @@
 
-#About Me
+# About Me
 
 
 
-##Assignments
+## Assignments
 [Graphing Practice 1](ballgraph.md)
 
 [My R Studio Bigger Graph](RStudioGraph.md)
