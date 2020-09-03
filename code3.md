@@ -33,7 +33,7 @@ table(counties_rmt$total == counties_rmt$male + counties_rmt$female)
 #show table
 counties_rmt
 
-##Part 1 The Basics Yet Still COntinued
+# Part 1 The Basics Yet Still COntinued
 
 #bind Monserrado urban and rural, combining totals into a new data frame called mont_pops
 mont_pops <- cbind(county_names = "Montserrado", counties_rmt[11,2:4] + counties_rmt[12,2:4])
@@ -47,7 +47,7 @@ counties_rmt <- rbind(counties_rmt[1:10,], mont_pops, counties_rmt[11:14,])
 #move 13-16 to 12-15
 row.names(counties_rmt) <- 1:nrow(counties_rmt)
 
-##Part 1: The Basics Yet Continued Even More
+# Part 1: The Basics Yet Continued Even More
 
 #change order of river gee and rivercess in counties_rmt
 counties_rmt <- counties_rmt[c(1:12,14,13,15), ]
@@ -144,6 +144,6 @@ barplot(t(counties_src$density),
         cex.names=0.55 #decrease county name size by 55%
 )
 #Check Charts
-# counties_rmt
-# counties_src
+#counties_rmt
+#counties_src
 
