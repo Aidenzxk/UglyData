@@ -1,16 +1,4 @@
-# x<-1:10
-# y<-10:1
-# ls()
-# x
-# y
-# the_first_number <-(2)
-# the_last_number<-(55)
-# interval_between_each_number <-(3)
-# plot(x,y, type = "")
-# object_1 <-seq(from = the_first_number, to = the_last_number, by = interval_between_each_number)
-# object_2 <- seq(from = the_first_number, to = the_last_number,
-#                 by = interval_between_each_number)
-# plot(object_1,object_2)
+
 
 ## Part 1 Importing
 
