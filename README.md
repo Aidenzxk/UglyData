@@ -11,4 +11,4 @@ Hello! I'm Aiden Weinhold, a current freshman at William and Mary. I enjoy playi
 
 [Graphing Practice 3 - Challenge](journey.md)
 
-[R Studio Practice 1](practice1.md)
+[R Studio Practice 1](Practice1.md)
