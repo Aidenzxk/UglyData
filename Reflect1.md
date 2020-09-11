@@ -1,4 +1,4 @@
- # Machine Learning in Healthcare
+ ## Machine Learning in Healthcare
  
 There are thousands of diseases around the world, each with its own symptoms and resulting problems. The problem is that some symptoms are so small or so hard to spot that even the best doctors cannot detect them. However, in recent years, machine learning has been used to detect these diseases quickly, often faster and with higher accuracy than trained medical professionals. Through machine learning, professionals can rely on software to accurately deduce afflictions, which could lead to expedited medical processes and more.
            
