@@ -13,10 +13,16 @@ Hello! I'm Aiden Weinhold, a current freshman at William and Mary. I enjoy playi
 
 [R Studio Practice 1](Practice1.md)
 
-[Reflection #1 - Machine Learning in Healthcare](Reflect1.md)
+
 
 [Project 1 - Parts 1 and 2](Proj1.md)
 
 [Project 2 - Part 1](Proj2-1.md)
+
+[Project 2 - Part 2](Proj2-2.md)
+
+### Reflections
+
+[Reflection #1 - Machine Learning in Healthcare](Reflect1.md)
 
 [Reflection #2 - Machine Learning in Baseball](Reflect2.md)
