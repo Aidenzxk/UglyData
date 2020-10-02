@@ -18,3 +18,5 @@ Hello! I'm Aiden Weinhold, a current freshman at William and Mary. I enjoy playi
 [Project 1 - Parts 1 and 2](Proj1.md)
 
 [Project 2 - Part 1](Proj2-1.md)
+
+[Reflection #2 - Machine Learning in Baseball](Reflect2.md)
