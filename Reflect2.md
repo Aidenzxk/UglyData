@@ -7,7 +7,8 @@ Many coaches have an indicator, followed by a sign which would tell a player wha
 
 While the idea of the app could help coaches decode other coaches signals, allowing them to know whether opposing teams will steal or hit in a certain way, it most likely won’t be implemented. Even though it is encouraged to guess or notice a sequence and result, with technology the skill goes away, and no human can beat a neural network of machine learning capable of doing thousands of comparisons a second. Therefore, even though the app and idea could be useful, by principle alone many coaches most likely will not ever use it, as it would be considered highly unsportsmanlike conduct and would probably go against most coaches beliefs and moral compass. 
 
-Citations
+#### Citations
+
 Rober, Mark, director. Stealing Baseball Signs with a Phone (Machine Learning), 30 June 2019, www.youtube.com/watch?v=PmlRbfSavbI&ab_channel=MarkRober. 
 
 
