@@ -5,4 +5,5 @@ There does not seem to be many positive correlations, and much of the data doesn
 
 ### Deliverable 2
 ![](sum1.jpeg)
+
 This is a summary of the predictor stock Telsa and the predictive stocks Honda Motor Co, Ferrari, General Motors, and Nissan Motor Co Ltd.
