@@ -29,3 +29,5 @@ Hello! I'm Aiden Weinhold, a current freshman at William and Mary. I enjoy playi
 
 [Reflection #2 - Machine Learning in Baseball](Reflect2.md)
 
+[Reflection #3 - Machine Learning in Youtube Reccomendations](Reflect3.md)
+
