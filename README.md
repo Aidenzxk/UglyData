@@ -23,7 +23,7 @@ Hello! I'm Aiden Weinhold, a current freshman at William and Mary. I enjoy playi
 
 [Project 2 - Part 3](Proj2-3.md)
 
-
+[Project 3 - All Parts](Proj3.md)
 
 ### Reflections
 
