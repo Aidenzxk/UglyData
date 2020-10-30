@@ -33,3 +33,5 @@ Hello! I'm Aiden Weinhold, a current freshman at William and Mary. I enjoy playi
 
 [Reflection #3 - Machine Learning in Youtube Reccomendations](Reflect3.md)
 
+[Reflection #4 - Data Collection in the Modern World](Reflect4.md)
+
