@@ -8,6 +8,6 @@ This picture shows Belgium, it's provinces, and subprovinces. I tried to get the
 
 ## Stretch Goal 3
 
-![](Mon.gif)
+![](mon.gif)
 
 This gif shows a 3d image of the population sizes in mongolia, allowing one to get a accurate comparison between divisions. As one can see, most of the poppulations don't vary too much, as there is no blue on the chart. 
