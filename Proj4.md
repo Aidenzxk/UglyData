@@ -1,6 +1,6 @@
-#Project 4
+# Project 4
 
-#Part 1 - Stretch Goals 1 and 2
+## Part 1 - Stretch Goals 1 and 2
 
 ![](Belgium.jpeg)
 
