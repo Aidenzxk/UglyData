@@ -20,3 +20,9 @@ If the gif doesn't show up (it isn't for me but I have the code in place) let me
 ![](belg.jpeg)
 
 This plot actually shows my adm2, as adm1 for belgium only has 3 counties which I felt wasn't very interesting. My plot came out good, I didn't need to make any modifications to the original code and everything turned out fine. This plot was produced by first creating plots for both the density of Belgium and it's population, and then combinging the two plots into a single one. 
+
+## Part 2 Stretch Goal 1
+
+![](graf.jpeg)
+
+This graph shows why I decided to go with adm2 in the aforementioned individual deliverable, as this graph only has 3 counties which is what Belgium has, and more subcounties in those counties. But regardless 3 counties total seems very boring. 
