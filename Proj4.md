@@ -12,6 +12,8 @@ This picture shows Belgium, it's provinces, and subprovinces. I tried to get the
 
 This gif shows a 3d image of the population sizes in Belgium, allowing one to get a accurate comparison between divisions. As one can see, most of the poppulations don't vary too much, as there is no blue on the chart. 
 
+If the gif doesn't show up (it isn't for me but I have the code in place) let me know and I can personally send it.)
+
 
 ## Part 2 Individual Deliverable 
 
