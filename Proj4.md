@@ -15,6 +15,6 @@ This gif shows a 3d image of the population sizes in Belgium, allowing one to ge
 
 ## Part 2 Individual Deliverable 
 
-![](Belg.jpeg)
+![](belg.jpeg)
 
 This plot actually shows my adm2, as adm1 for belgium only has 3 counties which I felt wasn't very interesting. My plot came out good, I didn't need to make any modifications to the original code and everything turned out fine. This plot was produced by first creating plots for both the density of Belgium and it's population, and then combinging the two plots into a single one. 
