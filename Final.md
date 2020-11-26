@@ -1,3 +1,3 @@
-![](Final1.jpeg)
+![](final1.jpeg)
 
 ![](luxhealth.jpeg)
