@@ -7,3 +7,5 @@ This plot shows the population densities according to the size and color of the 
 # Accessibility 2
 ![](luxhealth.jpeg)
 
+# Accessibility 3
+![](3dbel.jpeg)
