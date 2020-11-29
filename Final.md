@@ -2,8 +2,7 @@
 
 ![](belll.jpeg)
 
-This plot shows the population densities according to the size and color of the dots. I was not able to get the blue outlline for each area working, however it is still easy to see how the dots show the densities at major locations. 
-
+This plot shows the population densities according to the size and color of the dots. The urban areas can be slightly seen behind the dots, but because the area is so small compared to the dots it can be hard to see; it can be seen somewhat in the middle yellow points.
 # Accessibility 2
 ![](luxhealth.jpeg)
 
