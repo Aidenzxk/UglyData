@@ -29,7 +29,9 @@ Hello! I'm Aiden Weinhold, a current freshman at William and Mary. I enjoy playi
 
 [Project 5 - Single Part](Proj5.md)
 
+[Final Project](Final.md)
 ### Reflections
+
 
 [Reflection #1 - Machine Learning in Healthcare](Reflect1.md)
 
@@ -41,4 +43,4 @@ Hello! I'm Aiden Weinhold, a current freshman at William and Mary. I enjoy playi
 
 [Reflection #5 - How Data Science Advances Understand of Ourselves](Reflect5.md)
 
-[Final Project](Final.md)
+
